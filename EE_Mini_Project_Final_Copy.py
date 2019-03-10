@@ -18,8 +18,6 @@
        IEEE 754 Half Precision Format
 
                                                     Author :Mahantesh Shashikant Mise
-                                                    SJSU ID: 011424998
-
                                                     IDE used for creating :PyCharm
        ----------------------------------************-------------------------------------"""
 
